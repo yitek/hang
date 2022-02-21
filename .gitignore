@@ -1,5 +1,7 @@
 # Prerequisites
 *.d
+.vs
+Debug
 
 # Object files
 *.o
